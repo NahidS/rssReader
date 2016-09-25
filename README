@@ -1,1 +1,13 @@
-Create README
+Usage:
+./feedme [url]
+
+Example URL: https://www.reddit.com/r/aww.json
+Gets a reddit json rss feed and creates an html page in home/feedme/(feedname.html) showing feeds as follow:
+
+[Feed title]
+--------------------------------------------------------------------
+Title: (link to actual shared link)
+Posted By: (username)
+Upvotes: (Number of upvotes)
+Comments: (should be linked to comment thread(Number of comments))
+--------------------------------------------------------------------
