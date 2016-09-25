@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: nseidi
-Build-Jdk: 1.8.0_73
+Built-By: EYOUSEFI
+Build-Jdk: 1.8.0_40
 Created-By: Maven Integration for Eclipse
 
